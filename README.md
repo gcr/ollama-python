@@ -1,6 +1,10 @@
 # Ollama Python Library
 The ollama python library provides the easiest way to integrate your python project with [Ollama](https://github.com/KennyRich/ollama-python)
 
+### 👉 Important note: This is a third-party implementation.
+You may instead be interested in the official Python library created and
+maintained by the Ollama team: https://github.com/ollama/ollama-python
+
 
 ## Getting Started
 This requires a python version of 3.9 or higher
